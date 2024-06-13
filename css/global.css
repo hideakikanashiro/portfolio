@@ -8,6 +8,14 @@ h1, h2, h3, h4{
   margin: 0px;
 }
 
+.header h2{
+  font-size: 3rem;
+  word-break: break-all;
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  color: rgb(31, 31, 31);
+}
+
 p{
   margin: 0px;
 }
