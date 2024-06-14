@@ -44,12 +44,13 @@
 }
 
 .empresa-ano {
-  position: absolute;
   top: 21px;
   left: -110px;
   color: rgb(56, 56, 56);
   font-size: 0.860rem;
-  width: 80px;
+  width: 90px;
+  text-align: right;
+  position: absolute;
 }
 
 .empresa-titulo {
