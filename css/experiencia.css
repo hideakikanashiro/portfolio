@@ -102,4 +102,15 @@
     text-align: left;
   }
 
+  .experiencia-empresa{
+    grid-template-columns: 1fr;
+  }
+
+  .experiencia-empresa span{
+    margin-bottom: 15px;
+  }
+
+  .empresa-skills{
+    margin-top: 20px;
+  }
 }
