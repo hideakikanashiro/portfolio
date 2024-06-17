@@ -21,14 +21,20 @@
   display: block;
 }
 
-@media (max-width: 810px){
+@media (max-width: 850px){
   .header{
     flex-direction: column;
-    gap: 20px;
+    gap: 10px;
   }
 
   .header-menu a{
     background-color: rgb(230, 230, 230);
     border-radius: 4px;
+  }
+
+  .header h2{
+    display: inline;
+    width: 400px;
+    margin-bottom: 40px;
   }
 }
