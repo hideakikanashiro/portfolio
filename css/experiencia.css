@@ -13,9 +13,10 @@
 
 .experiencia-texto {
   max-width: 50ch;
-  font-size: 1.8rem;
+  font-size: 1.2rem;
   line-height: 1.2;
   margin-bottom: 60px;
+  font-family: "SUSE", sans-serif;
 }
 
 .experiencia-texto strong {
@@ -60,7 +61,7 @@
 }
 
 .empresa-descricao {
-  font-size: 1.125rem;
+  font-size: 0.rem;
   line-height: 1.2rem;
   color: rgb(73, 73, 73);
 }

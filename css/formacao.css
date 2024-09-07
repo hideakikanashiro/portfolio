@@ -43,6 +43,10 @@
   margin-bottom: 25px;
 }
 
+.border {
+  border: 2px solid black;
+}
+
 .faculdade {
   display: flex;
   flex-direction: column;
@@ -148,7 +152,7 @@
     font-size: 1.25rem;
   }
 
-  .formacao-extra h3::before{
+  .formacao-extra h3::before {
     position: initial;
     margin-bottom: 10px;
   }
