@@ -61,6 +61,7 @@
 }
 
 .empresa-descricao {
+  font-family: "SUSE",sans-serif;
   font-size: 0.rem;
   line-height: 1.2rem;
   color: rgb(73, 73, 73);

@@ -89,8 +89,23 @@
    font-weight: bold;
    padding: 10px 18px;
    color: rgb(31, 31, 31);
+   position: relative;
 }
 
+.projetos a::after{
+   content: "";
+   display: block;
+   width: 0px;
+   height: 4px;
+   background: rgb(26, 156, 48);
+   transition: 0.3s;
+   top: 31px;
+   position: absolute;
+}
+
+.projetos a:hover::after{
+   width: 64px;
+}
 
 /* media query */
 
